@@ -4,12 +4,14 @@
 ### Instalando o projeto
 
 #### Clonar o projeto
+
 `git clone https://github.com/Jhon87/multistack-ediaristas-python.git`
+
 
 #### Instalar dependências
 `pip install -r requirements.txt`
 
-#### Alterar configurações do BD no arquivo ´settings.py´
+#### Alterar configurações do BD no arquivo `settings.py`
 ```
 DATABASES = {
     'default': {
