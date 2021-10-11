@@ -3,7 +3,7 @@
 
 ### Instalando o projeto
 
-#### Clonaro projeto
+#### Clonar o projeto
 'git clone https://github.com/Jhon87/multistack-ediaristas-python.git'
 
 #### Instalar dependências
